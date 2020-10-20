@@ -1,0 +1,7 @@
+C:\Users\jayde\source\repos\ISMDotNet3\ISMDotNet3\bin\Debug\ISMDotNet3.exe.config
+C:\Users\jayde\source\repos\ISMDotNet3\ISMDotNet3\bin\Debug\ISMDotNet3.exe
+C:\Users\jayde\source\repos\ISMDotNet3\ISMDotNet3\bin\Debug\ISMDotNet3.pdb
+C:\Users\jayde\source\repos\ISMDotNet3\ISMDotNet3\obj\Debug\ISMDotNet3.csprojAssemblyReference.cache
+C:\Users\jayde\source\repos\ISMDotNet3\ISMDotNet3\obj\Debug\ISMDotNet3.csproj.CoreCompileInputs.cache
+C:\Users\jayde\source\repos\ISMDotNet3\ISMDotNet3\obj\Debug\ISMDotNet3.exe
+C:\Users\jayde\source\repos\ISMDotNet3\ISMDotNet3\obj\Debug\ISMDotNet3.pdb
