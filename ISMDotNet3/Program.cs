@@ -57,6 +57,16 @@ namespace ISMDotNet3
             }
             return n;
         }
+        public static int PositiveIndexSum(double[] arr)
+        {
+            int q = 0;
+            for (int i = 0; i < arr.Length; i++)
+            {
+                if (arr[i] > 0)
+                    q += i;
+            }
+            return q;
+        }
         public static int MaxElementIndex(double []arr)
         {
             double n = arr[0];
