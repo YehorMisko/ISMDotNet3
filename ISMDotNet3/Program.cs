@@ -102,7 +102,7 @@ namespace ISMDotNet3
 
             for (int i = 1; i < arr.Length; i++)
             {
-                if (n < Math.Abs(arr[i]))
+                if (Math.Abs(n) < Math.Abs(arr[i]))
                 {
                     n = arr[i];
                 }
